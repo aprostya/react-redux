@@ -1,0 +1,17 @@
+[
+    {   
+        "id": 1,
+        "src": "https://image.ibb.co/cFJmPU/good_1.jpg",
+        "descr": "Книга о жопе",
+        "descr2": "Автор: мужик",
+        "title": "Архипелаг гулаг"
+    },
+    {
+        "id": 2,
+        "src": "https://image.ibb.co/noho4U/goods_2.jpg",
+        "descr": "Книга о геях",
+        "descr2": "Автор: пух",
+        "title": "Попка"
+
+    }
+]
